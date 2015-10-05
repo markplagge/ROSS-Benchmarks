@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>ROSS Benchmark Runs</dc:title>
+<dc:creator>Mark Plagge</dc:creator>
+<dc:subject>Parallel Discrete Event Simulations</dc:subject>
+<dc:description>This data contains performance metrics from running ROSS (Rensselaer's Optimistic Simulation System) with several tuned parameters. The goal is to provide guidelines for setting runtime options when running a ROSS system. The simulation run is the standard PHOLD simulation </dc:description>
+<dcterms:created xsi:type="dcterms:W3CDTF">2015-10-01</dcterms:created>
+<dc:type>simulation</dc:type>
+<dc:format>XML Performance Metrics</dc:format>
+<dc:identifier>https://github.com/markplagge/ROSS-Benchmarks/blob/master/mastiff_phold_run1.xml</dc:identifier>
+<dcterms:provenance>Data created by running simulations at Rensselaer Polytechnic Institute</dcterms:provenance>
+<dcterms:provenance>Simulation ran on local server</dcterms:provenance>
+<dcterms:provenance>PHOLD simulation ran with default parameters, these defaults are removed from the data set for simplicity.</dcterms:provenance>
+
+</metadata>
